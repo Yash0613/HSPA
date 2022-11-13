@@ -1,0 +1,49 @@
+[
+  {
+  "Id":1,
+  "SellRent":2,
+  "Name":"Birla House",
+  "Type":"House",
+  "Price":12000,
+  "Image":"house 1"
+  },
+  {
+    "Id":2,
+    "SellRent":2,
+    "Name":"Erose Villa",
+    "Type":"House",
+    "Price":12000,
+    "Image":"house 2"
+  },
+  {
+    "Id":3,
+    "SellRent":1,
+    "Name":"Mansion",
+    "Type":"House",
+    "Price":12000,
+    "Image":"house 3"
+  },
+  {
+    "Id":4,
+    "SellRent":1,
+    "Name":"Khandelwal House",
+    "Type":"House",
+    "Price":12000,
+    "Image":"house 4"
+  },
+  {
+    "Id":5,
+    "SellRent":1,
+    "Name":"Gupta House",
+    "Type":"House",
+    "Price":12000,
+    "Image":"house 5"
+  },
+  {
+    "Id":6,
+    "SellRent":1,
+    "Name":"Sharma House",
+    "Type":"House",
+    "Price":12000
+  }
+]
